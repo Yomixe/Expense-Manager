@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menadżer Wydatków</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_price">Wprowadź cenę</string>
+    <string name="hint_name">Wprowadź nazwę</string>
+    <string name="hint_date">Wprowadź datę</string>
+    <string name="button_save">Zapisz</string>
+    <string name="clear_all_data">Usuń wszystkie dane</string>
+    <string name="statistics">Statystyki</string>
+    <string name="title_activity_statistic">Statistic</string>
+
+</resources>
